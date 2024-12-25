@@ -1,0 +1,14 @@
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD9/KASD9/bin/Debug/net8.0/KASD9
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD9/KASD9/bin/Debug/net8.0/KASD9.deps.json
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD9/KASD9/bin/Debug/net8.0/KASD9.runtimeconfig.json
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD9/KASD9/bin/Debug/net8.0/KASD9.dll
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD9/KASD9/bin/Debug/net8.0/KASD9.pdb
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD9/KASD9/obj/Debug/net8.0/KASD9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD9/KASD9/obj/Debug/net8.0/KASD9.AssemblyInfoInputs.cache
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD9/KASD9/obj/Debug/net8.0/KASD9.AssemblyInfo.cs
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD9/KASD9/obj/Debug/net8.0/KASD9.csproj.CoreCompileInputs.cache
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD9/KASD9/obj/Debug/net8.0/KASD9.dll
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD9/KASD9/obj/Debug/net8.0/refint/KASD9.dll
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD9/KASD9/obj/Debug/net8.0/KASD9.pdb
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD9/KASD9/obj/Debug/net8.0/KASD9.genruntimeconfig.cache
+/Users/liga/Desktop/Учебники/Задачи KASD/KASD9/KASD9/obj/Debug/net8.0/ref/KASD9.dll
